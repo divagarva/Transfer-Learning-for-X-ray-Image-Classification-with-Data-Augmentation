@@ -1,0 +1,2 @@
+# Transfer Learning for X-ray Image Classification with Data Augmentation
+ "Transfer Learning for X-ray Image Classification with Data Augmentation" involves applying advanced data augmentation techniques such as random cropping, flipping, and contrast adjustments to X-ray images. The project utilizes pretrained models like MobileNetV2 and DenseNet169 to enhance classification accuracy, ensuring robust and efficient image analysis.
